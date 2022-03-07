@@ -9,7 +9,6 @@ public class Methods {
     {
 
         addThem(1,2);
-       
 
     }
 
