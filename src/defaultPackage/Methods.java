@@ -9,7 +9,7 @@ public class Methods {
     {
 
         addThem(1,2);
-
+System.out.println("Demo GIT");
     }
 
     public static int addThem(int a,int b)
